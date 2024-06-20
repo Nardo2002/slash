@@ -44,11 +44,11 @@ This Flutter project implements a responsive UI for the Home Screen that adapts 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Nardo2002/slash
 
 2. **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd slash
 
 3. **Install dependencies**
     ```bash
